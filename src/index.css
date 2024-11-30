@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-gradient-to-br from-earth-50 via-moss-50 to-earth-100 min-h-screen;
+  }
+}
+
+@layer components {
+  .animate-fade-in {
+    @apply animate-fadeIn;
+  }
+  
+  .animate-scale-in {
+    @apply animate-scaleIn;
+  }
+}
+
+.gradient-text {
+  @apply bg-clip-text text-transparent bg-gradient-to-r from-moss-600 to-earth-600;
+}

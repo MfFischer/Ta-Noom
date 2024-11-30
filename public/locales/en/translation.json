@@ -1,0 +1,28 @@
+{
+  "common": {
+    "appName": "Ta-Noom",
+    "navigation": {
+      "discover": "Discover",
+      "marketplace": "Marketplace",
+      "community": "Community",
+      "learn": "Learn"
+    }
+  },
+  "marketplace": {
+    "title": "Local Marketplace",
+    "categories": {
+      "all": "All Products",
+      "vegetables": "Vegetables",
+      "fruits": "Fruits",
+      "herbs": "Herbs",
+      "seeds": "Seeds"
+    },
+    "products": {
+      "organicTomatoes": "Organic Tomatoes",
+      "freshHerbs": "Fresh Herbs Mix"
+    },
+    "organic": "Organic",
+    "grower": "Grown by",
+    "contactGrower": "Contact Grower"
+  }
+}
