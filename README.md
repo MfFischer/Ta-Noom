@@ -36,6 +36,7 @@ npm run build
 - Framer Motion
 - Capacitor (for mobile)
 - Vite
+- Supabase for database and authentication
 
 ## 📱 Mobile App
 
@@ -52,10 +53,5 @@ npx cap sync
 
 We welcome contributions! Please see our contributing guidelines for more details.
 
-## 📄 License
 
-MIT License - feel free to use this project for your own purposes.
-
-## 🌟 Support
-
-For support, email support@ta-noom.com or join our Discord community.
+.
